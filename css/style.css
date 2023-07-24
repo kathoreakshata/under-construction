@@ -181,15 +181,15 @@ a:focus, a:hover {
   margin-left: 5px;
 }
 .btn.btn-color {
-  background-color: #48b751;
-  border-color: #48b751;
+  background-color: #cea053;
+  border-color: #cea053;
   color: #fff;
   border-radius: 0;
 }
 .btn.btn-color:hover {
   color: #fff;
-  background-color: #218cc4;
-  border-color: #218cc4;
+  background-color: #06486b;
+  border-color: #06486b;
 }
 .btn.btn-outline {
   border-radius: 0;
@@ -700,11 +700,11 @@ section .container {
 }
 
 .bg-image-1 {
-  background-image: url("../images/backgrounds/bg-1.1.jpg");
+  background-image: url("../images/backgrounds/banner2.jpg");
 }
 
 .bg-image-2 {
-  background-image: url("../images/backgrounds/bg-2.jpg");
+  background-image: url("../images/backgrounds/banner1.jpg");
 }
 
 .bg-image-3 {
@@ -716,7 +716,7 @@ section .container {
 }
 
 .bg-image-5 {
-  background-image: url("../images/backgrounds/bg-5.jpg");
+  background-image: url("../images/backgrounds/banner1.jpg");
 }
 
 .bg-particles {
@@ -1090,7 +1090,7 @@ section .container {
 }
 
 .highlight {
-  color: #5cb85c;
+  color: #cea053;
 }
 
 .f-bold {
@@ -1215,7 +1215,7 @@ section .container {
   float: left;
 }
 .logo > img {
-  max-height: 45px;
+  max-height: 120px;
   width: auto;
 }
 .logo .small {
